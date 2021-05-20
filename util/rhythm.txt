@@ -1,0 +1,19 @@
+-- BASIC INFORMATION -- 
+Author: Sunil Shastry.
+Date: 19 May, 2021.
+
+
+You are currently viewing the rhythm.txt file present on the util (utility) folder. In order to have the Rhythm application working as intended, please run the `main.py` file present outside the 'util' folder. Running the rhythm.py file does not do anything.
+
+The `rhythm.py` file is a Python class designed by Sunil Shastry for efficient working of the Rhythm application and for better coding practices. The Rhythm application follows the Object Oriented Programming paradigm, which involves complex topics such as Inheritance, Encapsulation, Abstraction and many more. It is believed that following an OOP style improves the quality of the code and makes it reusable at many instances.
+
+
+To run the Rhythm application, enter `python main.py` on your terminal, assuming that you have already navigated to the desired folder (To learn more about navigating through folders using the command line, please visit my GitHub repository at: https://github.com/sunillshastry/rhythm)
+
+Thank you for downloading the Rhythm project. Please contact me for any queries.
+
+Website: https://www.sunilshastry.com/
+LinkedIn: https://www.linkedin.com/in/sunilshastry/
+Twitter: https://twitter.com/sunillshastry
+Instagram: https://www.instagram.com/sunillshastry/
+GitHub: https://github.com/sunillshastry

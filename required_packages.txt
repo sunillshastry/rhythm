@@ -1,0 +1,6 @@
+requests
+os
+termcolor
+colorama
+pyfiglet
+util.rhythm (custom)
